@@ -1,0 +1,31 @@
+{
+  "name": "@ducphd2/gle-mongodb-store",
+  "version": "1.0.0",
+  "description": "Greenlock store for mongodb",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "greenlock-store-test": "^3.0.2",
+    "mongodb": "^3.3.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducphd2/gle-mongodb-store.git"
+  },
+  "keywords": [
+    "le-store",
+    "greenlock",
+    "letsencrypt",
+    "mongodb",
+    "mongo"
+  ],
+  "bugs": {
+    "url": "https://github.com/ducphd2/gle-mongodb-store/issues"
+  },
+  "homepage": "https://github.com/ducphd2/gle-mongodb-store",
+  "author": "ducphd2",
+  "license": "MIT"
+}
